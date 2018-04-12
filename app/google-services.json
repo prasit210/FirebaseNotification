@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "550908937541",
+    "firebase_url": "https://notification-a194a.firebaseio.com",
+    "project_id": "notification-a194a",
+    "storage_bucket": "notification-a194a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:550908937541:android:9774593e9f1d2baf",
+        "android_client_info": {
+          "package_name": "com.example.prasi.fibasenotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "550908937541-p0s35nu597ci39u5ip19tskbdfc0g5o0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.prasi.fibasenotification",
+            "certificate_hash": "f169fe9b0b6d318043531cc1fd35879d64c14be4"
+          }
+        },
+        {
+          "client_id": "550908937541-47ekdb5i6coqja5n5l29r68tdnb275fr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdbBayOBmyuRv4LZJ-l_swbNKA-tw3kcI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "550908937541-47ekdb5i6coqja5n5l29r68tdnb275fr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:550908937541:android:8cf244a711d04163",
+        "android_client_info": {
+          "package_name": "com.example.prasi.firebasenotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "550908937541-2qotsd3h9b23sbn1vdd5446qr29puael.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.prasi.firebasenotification",
+            "certificate_hash": "f169fe9b0b6d318043531cc1fd35879d64c14be4"
+          }
+        },
+        {
+          "client_id": "550908937541-47ekdb5i6coqja5n5l29r68tdnb275fr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdbBayOBmyuRv4LZJ-l_swbNKA-tw3kcI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "550908937541-47ekdb5i6coqja5n5l29r68tdnb275fr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
